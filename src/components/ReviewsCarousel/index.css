@@ -1,0 +1,20 @@
+/* Write your code here */
+.image {
+  height: 200px;
+  width: 200px;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #ffffff;
+}
+.para {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #171f46;
+}
+.despecrition {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #171f46;
+}
